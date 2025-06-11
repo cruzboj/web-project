@@ -1,0 +1,5 @@
+[submodule "client"]
+    path = client
+    url = https://github.com/cruzboj/web-client.git
+    path = server
+    url = https://github.com/cruzboj/web-server.git
